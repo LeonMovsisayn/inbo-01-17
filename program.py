@@ -32,4 +32,4 @@ def capchik():
 
 @app.route('/danilkashtan')
 def danilkashtan():
-    return 'Асоян Данила'
+    return 'Асоян Данила выполнил 3 практику'
