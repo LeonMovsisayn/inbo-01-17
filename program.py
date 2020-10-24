@@ -13,6 +13,11 @@ def hello_world_trm():
 def another_text():
     return 'Another Text'
 
+
+@app.route('/KretOFF')
+def KretOFF():
+    return 'Кретов Валерий Витальевич'
+
 @app.route('/capchik')
 def capchik():
     return 'Макущенко Максим'
