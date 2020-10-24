@@ -13,3 +13,7 @@ def hello_world_v2():
 @app.route('/trm')
 def hello_world_trm():
     return 'Hello, my name is Alexandr'
+
+@app.route('/trm')
+def hello_world_test():
+    return 'test complite!'
