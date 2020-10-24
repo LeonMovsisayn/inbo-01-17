@@ -32,3 +32,11 @@ def KretOFF():
 @app.route('/capchik')
 def capchik():
     return 'Макущенко Максим'
+
+@app.route('/danilkashtan')
+def danilkashtan():
+    return 'Асоян Данила'
+
+@app.route('/issue9')
+def danilkashtan():
+    return 'Alekseev issue9'
