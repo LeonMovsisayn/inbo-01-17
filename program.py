@@ -9,3 +9,7 @@ def hello_world():
 @app.route('/v2')
 def hello_world_v2():
     return 'Another text'
+
+@app.route('/capchik')
+def capchik():
+    return 'Макущенко Максим'
