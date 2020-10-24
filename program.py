@@ -9,3 +9,7 @@ def hello_world():
 @app.route('/v2')
 def hello_world_v2():
     return 'Another text'
+
+@app.route('/trm')
+def hello_world_trm():
+    return 'Hello, my name is Alexandr'
