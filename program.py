@@ -27,7 +27,7 @@ def hello_world_test():
 
 @app.route('/KretOFF')
 def KretOFF():
-    return 'Кретов Валерий Витальевич'
+    return 'Кретов Валерий Витальевич выполнил практику'
   
 @app.route('/capchik')
 def capchik():
