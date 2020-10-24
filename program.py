@@ -5,6 +5,14 @@ app = Flask(__name__)
 def hello_world():
     return 'Hello, World!'
 
+@app.route('/v2')
+def hello_world_v2():
+    return 'Hello, World! v2'
+
+@app.route('/alekseev')
+def alekseev():
+    return 'Alekseev Andrey INBO-01-17'
+
 @app.route('/trm')
 def hello_world_trm():
     return 'Hello, my name is Alexandr'
