@@ -5,7 +5,7 @@ app = Flask(__name__)
 def hello_world():
     return 'Hello, World!'
 
-<<<<<<< HEAD
+
 @app.route('/v2')
 def hello_world_v2():
     return 'Hello, World! v2'
