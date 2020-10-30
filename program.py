@@ -38,7 +38,7 @@ def danilkashtan():
     return 'Асоян Данила'
 
 @app.route('/issue9')
-def danilkashtan():
+def issue9():
     return 'Alekseev issue9'
 
 @app.route('/IF0XI')
