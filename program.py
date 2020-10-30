@@ -44,3 +44,7 @@ def danilkashtan():
 @app.route('/IF0XI')
 def IF0XI():
     return 'Полещук Е.С. выполнил практику'
+
+@app.route('/migunoffm')
+def migunoffm():
+    return 'Мигунов МН'
