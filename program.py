@@ -47,4 +47,4 @@ def IF0XI():
 
 @app.route('/migunoffm')
 def migunoffm():
-    return 'Мигунов МН'
+    return 'Мигунов коммит номер 2'
