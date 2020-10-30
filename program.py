@@ -40,3 +40,7 @@ def danilkashtan():
 @app.route('/issue9')
 def danilkashtan():
     return 'Alekseev issue9'
+
+@app.route('/IF0XI')
+def IF0XI():
+    return 'Полещук Е.С.'
