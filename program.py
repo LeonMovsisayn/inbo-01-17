@@ -9,7 +9,7 @@ def hello_world():
 def hello_world_v2():
     return 'Hello, World! v2'
 
-@app.route('/alekseev')
+@app.route('/alekseev_4')
 def alekseev():
     return 'Alekseev Andrey INBO-01-17'
 
