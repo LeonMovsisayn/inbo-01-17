@@ -48,3 +48,7 @@ def IF0XI():
 @app.route('/migunoffm')
 def migunoffm():
     return 'Мигунов коммит номер 2'
+
+@app.route('/sivashova3pr')
+def sivashova3pr():
+    return 'Сивашова Людмила 3 практика'
