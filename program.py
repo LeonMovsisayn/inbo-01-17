@@ -52,3 +52,7 @@ def migunoffm():
 @app.route('/sivashova3pr')
 def sivashova3pr():
     return 'Сивашова Людмила 3 практика'
+
+@app.route('/minachev3pr')
+def minachev3pr():
+    return 'Миначёв Артём Шамилевич практика 3'
