@@ -55,4 +55,4 @@ def sivashova3pr():
 
 @app.route('/Drozhzhin')
 def VegetableX():
-    return 'Дрожжин А.В.'
+    return 'Дрожжин А.В. выполнение практики 20:46'
