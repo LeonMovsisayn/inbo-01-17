@@ -52,3 +52,7 @@ def migunoffm():
 @app.route('/sivashova3pr')
 def sivashova3pr():
     return 'Сивашова Людмила 3 практика'
+
+@app.route('/Drozhzhin')
+def VegetableX():
+    return 'Дрожжин А.В.'
