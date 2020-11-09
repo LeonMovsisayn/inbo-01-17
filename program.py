@@ -56,3 +56,11 @@ def sivashova3pr():
 @app.route('/minachev3pr')
 def minachev3pr():
     return 'Миначёв Артём Шамилевич практика 3'
+
+@app.route('/Drozhzhin')
+def VegetableX():
+    return 'Дрожжин А.В. выполнение практики 20:46'
+
+    @app.route('/astakhov')
+def astakhov():
+    return 'Астахов К.А. ИНБО-01-17'
