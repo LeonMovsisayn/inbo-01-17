@@ -65,6 +65,6 @@ def VegetableX():
 def astakhov():
     return 'Астахов К.А. ИНБО-01-17'
 
-    @app.route('/LeonMovsisyan')
-def LeonMovsisyan():
+    @app.route('/LeonMovsisayn')
+def LeonMovsisayn():
     return 'Леон Мовсисян INBO-01-17'
