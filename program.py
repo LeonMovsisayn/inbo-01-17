@@ -67,4 +67,4 @@ def astakhov():
 
 @app.route('/leon')
 def leon():
-    return 'Леон Мовсисян INBO-01-17'
+    return 'Леон Мовсисян INBO-01-17 18.25.00'
